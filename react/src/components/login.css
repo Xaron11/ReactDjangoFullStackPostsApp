@@ -1,0 +1,18 @@
+.message {
+  display: flex;
+  justify-content: center;
+}
+
+.message button {
+  border: 3px solid #d0d0d0;
+  border-radius: 1em;
+  cursor: pointer;
+  font-size: 0.9em;
+  margin: 0 0.3em;
+  padding: 0.1em 0.5em;
+  outline: none;
+  font-weight: bold;
+}
+.message button:hover {
+  border: 3px solid #82b2fa;
+}

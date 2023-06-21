@@ -1,0 +1,22 @@
+.actionbox {
+  margin-left: 2em;
+  display: flex;
+}
+
+.actionbox button {
+  margin: 0.2em;
+  padding: 0.2em 1em;
+  border: 3px solid #d0d0d0;
+  border-radius: 1em;
+  cursor: pointer;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.actionbox button:hover {
+  border: 3px solid #82b2fa;
+}
+
+.actionbox .warning:hover {
+  border: 3px solid #f44;
+}
