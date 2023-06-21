@@ -1,0 +1,1 @@
+## React + Django Fullstack Posts Application Example
